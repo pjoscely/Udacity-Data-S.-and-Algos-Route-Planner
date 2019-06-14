@@ -1,6 +1,6 @@
 # Udacity-Data-S.-and-Algos-Route-Planner
 Implementation of A* algorithm
-Code here is partial basis for future course(s) on Data Structures and Algorithms.
+Code here is a partial basis for future course(s) on Data Structures and Algorithms.
 
 PROJECT LICENSE
 
